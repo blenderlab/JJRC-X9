@@ -15,3 +15,7 @@ Don't try another fw version, as hardware are a lot different, it won't boot.
  * flash : `st-flash write firmware.bin 0x8000000`
 
 or use stlink-gui : (available on all distrib's repo).
+
+## Thanks ##
+
+ * sidri from kopterforum.at
